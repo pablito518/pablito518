@@ -11,7 +11,7 @@
 
 <h2>:keyboard: Ferramentas</h2>
   
-:symbols: Linguagens: 
+<h3>:symbols: Linguagens:</h3>
 <p>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
 <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/pablito518/pablito518/blob/main/LogoHTML.png" height="50px"/>
@@ -33,13 +33,13 @@
 </p>
 
 
-<h2> :bookmark_tabs: Frameworks: </h2>
+<h3> :bookmark_tabs: Frameworks: </h3>
 <p>
 <a href="https://www.devmedia.com.br/guia/bootstrap/38150#:~:text=Introdu%C3%A7%C3%A3o,aos%20diferentes%20tamanhos%20de%20tela.">
 <img alt="Logo Framework Bootstrap" title="Bootstrap" src="https://github.com/pablito518/pablito518/blob/main/LogoBootstrap.png" height="50px"/>
 </a>
  
-<h2> :information_source: Bancos de dados: </h2>
+<h3> 🎲 Bancos de dados: </h3>
 <p>
 <a href="https://firebase.google.com/products/firestore">
 <img alt="Logo Firebase" title="Firebase" src="https://github.com/pablito518/pablito518/blob/main/LogoFirebase1.png" height="50px"/>
@@ -48,7 +48,7 @@
 <img alt="Logo SSMS" title="SSMS" src="https://github.com/pablito518/pablito518/blob/main/LogoSSMS.png" height="50px"/>
 </p>
 
-<h2> :information_source: Ferramentas de Versionamento: </h2>
+<h3> :information_source: Ferramentas de Versionamento: </h3>
 <p>
 <a href="https://git-scm.com/doc">
 <img alt="Logo Git" title="Git" src="https://github.com/pablito518/pablito518/blob/main/Git-Icon-1788C.png" height="50px"/>
@@ -57,13 +57,13 @@
 <img alt="Logo Github" title="Github" src="https://github.com/pablito518/pablito518/blob/main/GitHub-Mark-Light-120px-plus.png" height="50px"/>
 </p>
 
-<h2> :iphone: Contato: </h2> 
+<h3> :iphone: Contato: </h3> 
 
 <p>
 <a href="https://www.linkedin.com/in/pablo-ribeiro518/" alt="Linkedin"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-ribeiro518/"/></a>
 </p>
-<h2> 📊 Stats: </h2> 
+<h3> 📊 Stats: </h3> 
 
 <center>
 <table>
