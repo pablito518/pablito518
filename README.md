@@ -7,8 +7,8 @@
 
 🏫 Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 <br>
-<p align="left">  Check out my <a target="_blank" href='https://www.linkedin.com/in/pablo-ribeiro-275093197/'> Linkedin </a>/Da uma olhada no meu  <a target="_blank" href='https://www.linkedin.com/in/pablo-ribeiro-275093197/'>LinkedIn</a></p>
-<br>
+
+
 <h2>:keyboard: Ferramentas</h2>
   
 :symbols: Linguagens: 
@@ -33,13 +33,13 @@
 </p>
 
 
-:bookmark_tabs: Frameworks:
+<h2> :bookmark_tabs: Frameworks: </h2>
 <p>
 <a href="https://www.devmedia.com.br/guia/bootstrap/38150#:~:text=Introdu%C3%A7%C3%A3o,aos%20diferentes%20tamanhos%20de%20tela.">
 <img alt="Logo Framework Bootstrap" title="Bootstrap" src="https://github.com/pablito518/pablito518/blob/main/LogoBootstrap.png" height="50px"/>
 </a>
  
-:information_source: Bancos de dados:
+<h2> :information_source: Bancos de dados: </h2>
 <p>
 <a href="https://firebase.google.com/products/firestore">
 <img alt="Logo Firebase" title="Firebase" src="https://github.com/pablito518/pablito518/blob/main/LogoFirebase1.png" height="50px"/>
@@ -47,8 +47,24 @@
 <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16">
 <img alt="Logo SSMS" title="SSMS" src="https://github.com/pablito518/pablito518/blob/main/LogoSSMS.png" height="50px"/>
 </p>
-  
-  
+
+<h2> :information_source: Ferramentas de Versionamento: </h2>
+<p>
+<a href="https://git-scm.com/doc">
+<img alt="Logo Git" title="Git" src="https://github.com/pablito518/pablito518/blob/main/Git-Icon-1788C.png" height="50px"/>
+
+<a href="https://github.com/">
+<img alt="Logo Github" title="Github" src="https://github.com/pablito518/pablito518/blob/main/GitHub-Mark-Light-120px-plus.png" height="50px"/>
+</p>
+
+<h2> :iphone: Contato: </h2> 
+
+<p>
+<a href="https://www.linkedin.com/in/pablo-ribeiro518/" alt="Linkedin"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-ribeiro518/"/></a>
+</p>
+<h2> 📊 Stats: </h2> 
+
 <center>
 <table>
     <tr>
